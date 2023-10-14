@@ -4,8 +4,6 @@
 # Author:Akhil Panwar
 # Created on:10th october,2023
 # This script will remove temporary files,update all the installled packages and create the system backup
-# this last change is done to see that if local repo also chanege 
-# and we are here to see this if it works or not 
 
 #############################################333
 
