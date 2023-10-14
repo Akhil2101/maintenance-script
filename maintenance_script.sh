@@ -5,7 +5,7 @@
 # Created on:10th october,2023
 # This script will remove temporary files,update all the installled packages and create the system backup
 
-#############################################333
+#############################################
 
 # Define variables
 backup_dir="/backup/$(date +'%Y-%m-%d')"
